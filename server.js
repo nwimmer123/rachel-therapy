@@ -34,4 +34,3 @@ app.get('/sexuality', function(req,res) {
 //SERVER
 
 app.listen(3000);
-console.log('TITTIES!!!');
